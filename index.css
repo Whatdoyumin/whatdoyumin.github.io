@@ -38,7 +38,7 @@ body {
   grid-template-columns: 1fr 1fr;
   gap: 20px;
   justify-items: stretch;
-  margin: 0 100px 0px 100px;
+  margin: 0 100px 100px 100px;
 }
 
 .item-grid {
